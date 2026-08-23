@@ -172,3 +172,46 @@ Contributions
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=A78BFA)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F97316)
+
+## `05` — GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wasqua07&show_icons=true&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasqua07&layout=compact&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1&icon_color=A78BFA" width="40%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=wasqua07&theme=transparent&hide_border=true&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" width="70%" />
+
+</div>
+
+## `06` — Connect
+
+<div align="center">
+
+### Let's build something useful.
+
+I'm always open to learning, collaborating, contributing to open source,
+and connecting with other developers.
+
+<br>
+
+<a href="https://github.com/wasqua07">
+  <img src="https://img.shields.io/badge/GitHub-wasqua07-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<a href="https://www.linkedin.com/in/wasqua-imtiaz">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:A78BFA&height=100&section=footer" width="100%" />
+
+</div>
