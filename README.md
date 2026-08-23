@@ -37,7 +37,7 @@ I'm currently learning how to contribute to open-source projects and looking for
 ### 📫 Connect With Me
 
 - GitHub: [@wasqua07](https://github.com/wasqua07)
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/wasqua-imtiaz
 
 ---
 
